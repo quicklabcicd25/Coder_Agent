@@ -9,6 +9,9 @@
 🦙 Powered by LLaMA3-70B via Groq for lightning-fast generation
 💬 Wrapped in a sleek Gradio interface for interactive chat
 
+![image_alt](https://github.com/quicklabcicd25/Coder_Agent/blob/e7e8d08d6dd676950536a5253a1051479731e3f0/coder_agent.png)
+
+
 🛠️ Example use case:
 
 “Where is sliding window used in the real world? Write code for a relevant use case.”
